@@ -1,0 +1,38 @@
+countryCode,id,name,code,typeId,typeName,startDate,endDate,year,requirements,funding,percentFunded
+#country+code,#activity+appeal+id+fts_internal,#activity+appeal+name,#activity+appeal+id+external,#activity+appeal+type+id+fts_internal,#activity+appeal+type+name,#date+start,#date+end,#date+year,#value+funding+required+usd,#value+funding+total+usd,#value+funding+pct
+ZMB,,Not specified,,,,,,2027,,1000000,
+ZMB,,Not specified,,,,,,2026,,1000000,
+ZMB,,Not specified,,,,,,2025,,1309595,
+ZMB,,Not specified,,,,,,2024,,1309595,
+ZMB,1119,Democratic Republic of the Congo Regional Refugee Response Plan 2023,RDRCRRP23,111,Regional response plan,2023-01-01,2023-12-31,2023,36332377,911254,3
+ZMB,,Not specified,,,,,,2023,,10146731,
+ZMB,1092,Democratic Republic of the Congo Regional Refugee Response Plan 2022,RDRCRRP22,111,Regional response plan,2022-01-01,2022-12-31,2022,65179947,8600377,13
+ZMB,,Not specified,,,,,,2022,,1764624,
+ZMB,1018,Democratic Republic of the Congo Regional Refugee Response Plan 2021,RDRCRRP21,111,Regional response plan,2021-01-01,2021-12-31,2021,74681142,,
+ZMB,,Not specified,,,,,,2021,,27379659,
+ZMB,937,Zambia 2019 - 2020,OZMB1920,6,Other,2019-10-01,2020-03-31,2020,89537019,27969390,31
+ZMB,946,Democratic Republic of the Congo Regional Refugee Response Plan 2020,RDRCRRP20,111,Regional response plan,2020-01-01,2020-12-31,2020,,600000,
+ZMB,1002,Zambia Intersectoral COVID-19 Response Plan 2020,OZMB20,1614,Other,2020-05-01,2020-12-31,2020,125612928,13196362,11
+ZMB,,Not specified,,,,,,2020,,526485,
+ZMB,,Not specified,,,,,,2019,,5267144,
+ZMB,,Not specified,,,,,,2018,,8485530,
+ZMB,,Not specified,,,,,,2017,,2105126,
+ZMB,,Not specified,,,,,,2016,,6129947,
+ZMB,,Not specified,,,,,,2015,,3300000,
+ZMB,,Not specified,,,,,,2014,,5368900,
+ZMB,,Not specified,,,,,,2013,,3000000,
+ZMB,,Not specified,,,,,,2012,,30364,
+ZMB,,Not specified,,,,,,2010,,1605212,
+ZMB,,Not specified,,,,,,2009,,8841696,
+ZMB,,Not specified,,,,,,2008,,9071202,
+ZMB,245,Zambia Floods Flash Appeal 2007,FZMB07,5,Flash appeal,2007-03-15,2007-06-30,2007,8852453,1101840,12
+ZMB,,Not specified,,,,,,2007,,4645803,
+ZMB,,Not specified,,,,,,2006,,43717613,
+ZMB,,Not specified,,,,,,2005,,16343794,
+ZMB,,Not specified,,,,,,2004,,43500,
+ZMB,130,Humanitarian Crisis in Southern Africa - ZAMBIA (July 2003 - June 2004),CZMB0304,110,CAP,2003-07-01,2004-06-30,2003,14503757,3182811,22
+ZMB,,Not specified,,,,,,2003,,9030325,
+ZMB,99,Humanitarian Crisis in Southern Africa 2002 - ZAMBIA,CZMB0203,110,CAP,2002-07-01,2003-06-30,2002,24035873,8027151,33
+ZMB,,Not specified,,,,,,2002,,29856843,
+ZMB,,Not specified,,,,,,2001,,1971117,
+ZMB,,Not specified,,,,,,2000,,365545,
